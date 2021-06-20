@@ -1,21 +1,39 @@
 body{
-    background: #D5C9BB;
+    background: #F5F5F5;
 }
 
 table{
-    border-color: #813D18;
+    border-color: #5a2d0c;
     border-style: double;
-    border-width: 5px;
+    border-width: 7px;
 }
 
 th{
-    color: #4D6E7F;
+    color: #225564;
     font-weight: bold;
     font-size: 22px;
 }
 
 td{
-    color: #4D6E7F;
+    color: #225564;
     font-size: 20px;
     text-align: center;
+}
+
+a{
+    color: #DEB887;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h1{
+    color: #D3A9AB;
+}
+
+.name{
+    color: #5a2d0c;
+}
+
+#type{
+    color: #225564;
 }
