@@ -1,3 +1,21 @@
 body{
-    background: #E4CED0;
+    background: #D5C9BB;
+}
+
+table{
+    border-color: #813D18;
+    border-style: double;
+    border-width: 5px;
+}
+
+th{
+    color: #4D6E7F;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+td{
+    color: #4D6E7F;
+    font-size: 20px;
+    text-align: center;
 }
